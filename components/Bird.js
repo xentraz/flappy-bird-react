@@ -1,6 +1,5 @@
 import React from 'react';
 import { View } from 'react-native';
-
 // View  is esentially the encompasing div
 
 const Bird = ({birdBottom, birdLeft}) => {  
